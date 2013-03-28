@@ -3,9 +3,9 @@ project_type = :stand_alone
 
 # Publishing paths
 http_path = "/svsc/"
-http_images_path = "/svsc/images"
-http_fonts_path = "/svsc/fonts"
-css_dir = "public/svsc/stylesheets"
+http_images_path = "/images"
+http_fonts_path = "/fonts"
+css_dir = "public/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
